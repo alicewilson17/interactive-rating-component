@@ -63,27 +63,18 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Still feeling a little rusty but it's only day 2 of getting back into the swing of coding! I had to remind myself how the DOM works and how Javascript can be used to manipulate HTML elements.
 
-To see how you can add code snippets, see below:
+I finally cracked the code on how to center an element both horizontally and vertically using flexbox, which is something I was struggling with for a while before today!
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+I learned how to toggle the appearance and disappearance of elements on the click of a button, using event listeners.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+The part I am most proud of is figuring out how to get a hold of the number rating according to which button the user clicks, and then displaying that number once the submit button is clicked. I love those rare moments where your code works first time!!
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Overall, I enjoyed this project and I think learning how to build this component was very worthwhile, as it will come in very handy when building websites in the future!
+
+
+
 
 ### Continued development
 
